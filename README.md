@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋</h1>
+<h1 align="left">Hey, I'm Yash👋</h1>
 
 ###
 
-<p align="left">My name is Yash and I'm a Frontend Developer from Mumbai, India</p>
+<p align="left">I'm a Software Developer from Mumbai, India</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning NodeJS<br>🎲 Want to work on a project together? Ping me!</p>
+<p align="left">📚 I'm currently learning Backend Development, Java and DSA<br>🎲 Want to work on a project together? Ping me!</p>
 
 ###
 
